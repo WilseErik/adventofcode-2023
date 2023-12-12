@@ -1,4 +1,4 @@
-""" Solution to part one of day X of Advent of code 2023
+""" Solution to part one of day 10 of Advent of code 2023
     See https://adventofcode.com/2023 for the problem description """
 
 import sys
